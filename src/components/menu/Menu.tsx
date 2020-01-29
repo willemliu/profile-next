@@ -20,6 +20,7 @@ function Menu() {
             <TerminalLink href={'/'} as={'/'}>
                 <TerminalAnchor
                     className={current === '/' ? styles.selected : ''}
+                    title="Home"
                 >
                     > Home
                 </TerminalAnchor>
@@ -27,6 +28,7 @@ function Menu() {
             <TerminalLink href={'/projects'} as={'/projects'}>
                 <TerminalAnchor
                     className={current === '/projects' ? styles.selected : ''}
+                    title="Projects"
                 >
                     > My projects
                 </TerminalAnchor>
@@ -34,6 +36,7 @@ function Menu() {
             <TerminalLink href={'/about'} as={'/about'}>
                 <TerminalAnchor
                     className={current === '/about' ? styles.selected : ''}
+                    title="About"
                 >
                     > About
                 </TerminalAnchor>

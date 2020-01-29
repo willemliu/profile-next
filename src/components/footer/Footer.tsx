@@ -12,6 +12,7 @@ function Footer() {
                     href="https://github.com/willemliu"
                     target="_blank"
                     rel="noopener noreferrer nofollow"
+                    title="My Github"
                 >
                     My Github
                 </TerminalAnchor>

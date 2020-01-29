@@ -19,8 +19,9 @@ function About() {
                         href="https://reactjs.org"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
+                        title="ReactJS"
                     >
-                        React
+                        ReactJS
                     </TerminalAnchor>
                 </li>
                 <li>
@@ -28,6 +29,7 @@ function About() {
                         href="https://preactjs.com/"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
+                        title="Preact"
                     >
                         Preact (drop-in replacement for React)
                     </TerminalAnchor>
@@ -37,6 +39,7 @@ function About() {
                         href="https://nextjs.org"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
+                        title="NextJS"
                     >
                         NextJS
                     </TerminalAnchor>
@@ -46,6 +49,7 @@ function About() {
                         href="https://nextjs.org/docs/advanced-features/customizing-postcss-config#css-modules"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
+                        title="CSS Modules"
                     >
                         CSS Modules (with SCSS pre-processor)
                     </TerminalAnchor>
@@ -55,6 +59,7 @@ function About() {
                         href="https://zeit.co"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
+                        title="Zeit Now"
                     >
                         Zeit Now
                     </TerminalAnchor>

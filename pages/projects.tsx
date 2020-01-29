@@ -20,6 +20,7 @@ function Projects() {
                         href="https://www.moviesom.com"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="MovieSom"
                     >
                         > MovieSom
                     </TerminalAnchor>
@@ -41,6 +42,7 @@ function Projects() {
                         href="https://news.moviesom.com"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="MovieSom News"
                     >
                         > MovieSom News
                     </TerminalAnchor>
@@ -63,6 +65,7 @@ function Projects() {
                         href="https://fd.nl"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="FD.nl"
                     >
                         > FD.nl
                     </TerminalAnchor>
@@ -84,6 +87,7 @@ function Projects() {
                         href="https://bnr.nl"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="BNR.nl"
                     >
                         > BNR.nl
                     </TerminalAnchor>
@@ -104,6 +108,7 @@ function Projects() {
                         href="https://github.com/willemliu?tab=repositories"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="more projects"
                     >
                         > more projects
                     </TerminalAnchor>
@@ -125,6 +130,7 @@ function Projects() {
                         href="https://github.com/FDMediagroep/fd-cypress-recorder"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="Fd Cypress Recorder"
                     >
                         > Fd Cypress Recorder
                     </TerminalAnchor>
@@ -156,6 +162,7 @@ function Projects() {
                         href="https://github.com/willemliu/universal-comments-plugin"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="Universal Comments"
                     >
                         > Universal Comments
                     </TerminalAnchor>
@@ -188,6 +195,7 @@ function Projects() {
                         href="https://github.com/willemliu?tab=repositories"
                         target="_blank"
                         rel="noopener noreferrer"
+                        title="more projects"
                     >
                         > more projects
                     </TerminalAnchor>
