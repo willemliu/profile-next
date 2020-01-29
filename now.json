@@ -1,0 +1,13 @@
+{
+    "name": "profile-next",
+    "version": 2,
+    "regions": ["dub1"],
+    "build": {
+        "env": {
+            "CLIENT_SIDE_VARIABLE": "client side variable LOCAL"
+        }
+    },
+    "env": {
+        "SERVER_SIDE_VARIABLE": "server side variable LOCAL"
+    }
+}

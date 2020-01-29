@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+    #__next {
+        display: flex;
+        flex-direction: column;
+        min-height: calc(100vh - 20px);
+
+        * {
+            font-family: 'Lucida Console', 'Lucida Sans Typewriter', monaco,
+                'Bitstream Vera Sans Mono', monospace;
+            color: #228b22;
+            text-shadow: 2.6208764473832513px 0 1px rgba(0, 30, 255, 0.5),
+                -2.6208764473832513px 0 1px rgba(255, 0, 80, 0.3), 0 0 3px;
+        }
+
+        > article {
+            flex: 1 1 auto;
+        }
+    }
+
+    button,
+    a {
+        &:active,
+        &:focus,
+        &:hover {
+            outline-style: ridge;
+            outline-color: #228b22;
+        }
+    }
+
+    * h1 {
+        text-align: center;
+        font-size: 2rem;
+        @media screen and (min-width: 860px) {
+            font-size: 4rem;
+        }
+        @media screen and (min-width: 1024px) {
+            font-size: 6rem;
+        }
+    }
+
+    &:before {
+        content: '';
+        animation: flicker 0.15s infinite;
+    }
+}
+
+@keyframes flicker {
+    0% {
+        opacity: 0.90626;
+    }
+    25% {
+        opacity: 0.83891;
+    }
+    30% {
+        opacity: 0.65583;
+    }
+    35% {
+        opacity: 0.67807;
+    }
+    45% {
+        opacity: 0.84693;
+    }
+    50% {
+        opacity: 0.96019;
+    }
+    55% {
+        opacity: 0.08594;
+    }
+    65% {
+        opacity: 0.71988;
+    }
+    70% {
+        opacity: 0.53455;
+    }
+    80% {
+        opacity: 0.71428;
+    }
+    85% {
+        opacity: 0.70419;
+    }
+    90% {
+        opacity: 0.7003;
+    }
+    100% {
+        opacity: 0.24387;
+    }
+}

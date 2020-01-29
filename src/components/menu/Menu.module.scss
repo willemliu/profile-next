@@ -1,0 +1,8 @@
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+
+    .selected {
+        border: 1px ridge #228b22;
+    }
+}
