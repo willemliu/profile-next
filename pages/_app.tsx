@@ -4,6 +4,7 @@ import Head from 'next/head';
 import { Menu } from '../src/components/menu/Menu';
 import { Footer } from '../src/components/footer/Footer';
 import { Konami } from '../src/utils/Konami';
+import { Scanline } from '../src/components/scanline/Scanline';
 
 export default function MyApp({ Component, pageProps }: any) {
     useEffect(() => {
@@ -26,10 +27,8 @@ export default function MyApp({ Component, pageProps }: any) {
 
                 <title>Willem Liu</title>
             </Head>
+            <Scanline />
             <Menu />
-            <div className="diode">
-                <div className="laser"></div>
-            </div>
             <Component {...pageProps} />
             <Footer />
         </>

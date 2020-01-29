@@ -3,7 +3,7 @@ body {
     #__next {
         display: flex;
         flex-direction: column;
-        min-height: calc(100vh - 20px);
+        min-height: calc(100vh - 40px);
 
         * {
             font-family: 'Lucida Console', 'Lucida Sans Typewriter', monaco,
@@ -42,34 +42,6 @@ body {
     &:before {
         content: '';
         animation: flicker 0.15s infinite;
-    }
-}
-
-.laser {
-    width: 100vw;
-    background-color: black;
-    height: 12px;
-    position: absolute;
-    top: 0;
-    opacity: 0.6;
-    z-index: 2;
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
-    animation: scanning 10s infinite;
-}
-
-.diode {
-    animation: beam 0.01s infinite;
-}
-
-@keyframes beam {
-    50% {
-        opacity: 0;
-    }
-}
-
-@keyframes scanning {
-    100% {
-        transform: translateY(100vh);
     }
 }
 
