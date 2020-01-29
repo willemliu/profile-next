@@ -27,6 +27,9 @@ export default function MyApp({ Component, pageProps }: any) {
                 <title>Willem Liu</title>
             </Head>
             <Menu />
+            <div className="diode">
+                <div className="laser"></div>
+            </div>
             <Component {...pageProps} />
             <Footer />
         </>
