@@ -5,11 +5,11 @@ Willem Liu ("us", "we", or "our") operates the Browser extension. This page info
 We use your Personal Information only for providing and improving the Extension. By using the Extension, you agree to the collection and use of information in accordance with this policy.
 
 Information Collection And Use
- While using our Extension, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, social media profile photo and email address ("Personal Information").
-Collected information is only used by our Extension to provide functionality or for statistical analysis. All collected information is never given or sold to a third party. Our site does not make use of any third party analytics tools/software for information collection. You retain the right to have us remove all your data in our possession.
+ While using our Extension, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include your name, social media profile photo and email address ("Personal Information").
+Collected information is only used by our Extension to provide functionality or for statistical analysis. All collected information is never given or sold to a third party. Our Extension does not make use of any third party analytics tools/software for information collection. You retain the right to have us remove all your data in our possession.
 
 Security
- The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+ The security of your Personal Information is important to us so all transmissions are done over an encrypted (https) connection.
 
 Links To Other Sites
  Our Extension may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
