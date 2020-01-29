@@ -9,7 +9,7 @@ Information Collection And Use
 Collected information is only used by our Extension to provide functionality or for statistical analysis. All collected information is never given or sold to a third party. Our Extension does not make use of any third party analytics tools/software for information collection. You retain the right to have us remove all your data in our possession.
 
 Security
- The security of your Personal Information is important to us so all transmissions are done over an encrypted (https) connection.
+ The security of your Personal Information is important to us so all transmissions are done over a secure (https) connection.
 
 Links To Other Sites
  Our Extension may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
