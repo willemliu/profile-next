@@ -5,7 +5,6 @@ import { Menu } from '../src/components/menu/Menu';
 import { Footer } from '../src/components/footer/Footer';
 import { Konami } from '../src/utils/Konami';
 
-// This default export is required in a new `pages/_app.js` file.
 export default function MyApp({ Component, pageProps }: any) {
     useEffect(() => {
         new Konami();
