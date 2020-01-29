@@ -10,6 +10,7 @@ export default function MyApp({ Component, pageProps }: any) {
     useEffect(() => {
         new Konami();
     }, []);
+
     return (
         <>
             <Head>

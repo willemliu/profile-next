@@ -5,7 +5,7 @@ function Index() {
     return (
         <article className={styles.index}>
             <h1>Willem Liu</h1>
-            <p>person</p>
+            <p>person (male)</p>
             <ol>
                 <li>
                     <div>a person of Chinese descent.</div>
@@ -57,6 +57,13 @@ function Index() {
                     <div className={styles.example}>
                         "<strong>Willem Liu</strong> spends way too much money
                         on Lego"
+                    </div>
+                </li>
+                <li>
+                    <div>remover of jQuery</div>
+                    <div className={styles.example}>
+                        "Legends say that <strong>Willem Liu</strong> has rid a
+                        website of all jQuery dependencies"
                     </div>
                 </li>
             </ol>
