@@ -8,7 +8,7 @@ function Index() {
             <p>person (male)</p>
             <ol>
                 <li>
-                    <div>a person of Chinese descent.</div>
+                    <div>is a person of Chinese descent.</div>
                     <div className={styles.example}>
                         "<strong>Willem Liu</strong>'s parents are Chinese but
                         he himself is born and raised in the Netherlands"
@@ -16,7 +16,7 @@ function Index() {
                 </li>
                 <li>
                     <div>
-                        a frontend developer with knowledge of
+                        is a frontend developer with knowledge of
                         <ul>
                             <li>TypeScript</li>
                             <li>ReactJS</li>
@@ -60,10 +60,17 @@ function Index() {
                     </div>
                 </li>
                 <li>
-                    <div>remover of jQuery</div>
+                    <div>is a guild member of jQuery removers</div>
                     <div className={styles.example}>
                         "Legends say that <strong>Willem Liu</strong> has rid a
                         website of all jQuery dependencies"
+                    </div>
+                </li>
+                <li>
+                    <div>is always on the lookout for good coffee places</div>
+                    <div className={styles.example}>
+                        "They say that <strong>Willem Liu</strong> is still
+                        roaming the earth in search for coffee"
                     </div>
                 </li>
             </ol>
