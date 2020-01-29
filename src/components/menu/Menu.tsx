@@ -10,8 +10,8 @@ function Menu() {
     useEffect(() => {
         setCurrent(window.location.pathname);
 
-        Router.events.on('routeChangeComplete', () => {
-            setCurrent(window.location.pathname);
+        Router.events.on('routeChangeComplete', (url) => {
+            setCurrent(url);
         });
     }, []);
 
