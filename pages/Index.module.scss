@@ -10,10 +10,11 @@
     }
     > p {
         font-style: italic;
+        margin-bottom: 2rem;
     }
 
     ol > li {
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
         ul {
             columns: 2;
             @media screen and (min-width: 1024px) {

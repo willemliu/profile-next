@@ -8,14 +8,14 @@ function Index() {
             <p>person (male)</p>
             <ol>
                 <li>
-                    <div>is a person of Chinese descent.</div>
-                    <div className={styles.example}>
+                    <p>is a person of Chinese descent.</p>
+                    <p className={styles.example}>
                         "<strong>Willem Liu</strong>'s parents are Chinese but
                         he himself is born and raised in the Netherlands"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>
+                    <p>
                         is a frontend developer with knowledge of
                         <ul>
                             <li>TypeScript</li>
@@ -33,53 +33,53 @@ function Index() {
                             <li>PostgreSQL</li>
                             <li>Hasura</li>
                         </ul>
-                    </div>
-                    <div className={styles.example}>
+                    </p>
+                    <p className={styles.example}>
                         "<strong>Willem Liu</strong> is well versed in Frontend
                         Development"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>goes to the cinema quite often</div>
-                    <div className={styles.example}>
+                    <p>goes to the cinema quite often</p>
+                    <p className={styles.example}>
                         "<strong>Willem Liu</strong> often goes to the cinema to
                         watch 1 or 2 movies a week"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>likes photography</div>
-                    <div className={styles.example}>
+                    <p>likes photography</p>
+                    <p className={styles.example}>
                         "<strong>Willem Liu</strong> really strengthens the
                         existing stereotype by always taking photos"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>someone who runs regularly</div>
-                    <div className={styles.example}>
+                    <p>someone who runs regularly</p>
+                    <p className={styles.example}>
                         "<strong>Willem Liu</strong> likes to go out for a run
                         from time to time"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>has rediscovered Lego</div>
-                    <div className={styles.example}>
+                    <p>has rediscovered Lego</p>
+                    <p className={styles.example}>
                         "<strong>Willem Liu</strong> spends way too much money
                         on Lego"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>is a guild member of jQuery removers</div>
-                    <div className={styles.example}>
+                    <p>is a guild member of jQuery removers</p>
+                    <p className={styles.example}>
                         "Legends say that <strong>Willem Liu</strong> has rid a
                         website of all jQuery dependencies"
-                    </div>
+                    </p>
                 </li>
                 <li>
-                    <div>is always on the lookout for good coffee places</div>
-                    <div className={styles.example}>
+                    <p>is always on the lookout for good coffee places</p>
+                    <p className={styles.example}>
                         "They say that <strong>Willem Liu</strong> is still
                         roaming the earth in search for coffee"
-                    </div>
+                    </p>
                 </li>
             </ol>
         </article>
