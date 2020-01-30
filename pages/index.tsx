@@ -21,9 +21,17 @@ function Index() {
                             <li>TypeScript</li>
                             <li>ReactJS</li>
                             <li>NextJS</li>
+                            <li>GraphQL</li>
+                            <li>Styled-Components</li>
+                            <li>CSS Modules</li>
                             <li>NodeJS</li>
                             <li>Serverless</li>
-                            <li>CSS / SCSS / CSS Modules / CSS-in-JS</li>
+                            <li>SCSS</li>
+                            <li>CSS</li>
+                            <li>Git</li>
+                            <li>MySQL</li>
+                            <li>PostgreSQL</li>
+                            <li>Hasura</li>
                         </ul>
                     </div>
                     <div className={styles.example}>
