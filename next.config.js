@@ -1,6 +1,7 @@
 module.exports = {
     experimental: {
-        scss: true,
+        modern: true,
+        polyfillsOptimization: true,
     },
     webpack: (config, options) => {
         // config.node = {

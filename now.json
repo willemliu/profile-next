@@ -1,5 +1,4 @@
 {
-    "name": "profile-next",
     "version": 2,
     "regions": ["dub1"],
     "build": {
