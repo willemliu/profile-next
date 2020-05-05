@@ -56,12 +56,12 @@ function About() {
                 </li>
                 <li>
                     <TerminalAnchor
-                        href="https://zeit.co"
+                        href="https://vercel.com"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
                         title="Zeit Now"
                     >
-                        Zeit Now
+                        <s>Zeit Now</s> Vercel
                     </TerminalAnchor>
                 </li>
             </ul>
