@@ -59,7 +59,7 @@ function About() {
                         href="https://vercel.com"
                         target="_blank"
                         rel="noopener noreferrer nofollow"
-                        title="Zeit Now"
+                        title="Vercel"
                     >
                         <s>Zeit Now</s> Vercel
                     </TerminalAnchor>
