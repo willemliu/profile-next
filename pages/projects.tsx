@@ -84,6 +84,26 @@ function Projects() {
                 </div>
                 <div>
                     <TerminalAnchor
+                        href="https://design-system.fd.nl"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="FD Design System"
+                    >
+                        > FD Design System
+                    </TerminalAnchor>
+                    <span>
+                        <p>
+                            FD Design System consists of 3 products. A website
+                            which documents the components used on FD.nl.
+                            HTML/CSS code generator for the components for use
+                            outside of FD.nl e.g. marketing pages. And a
+                            component library which can be installed in a
+                            React.js/Next.js project.
+                        </p>
+                    </span>
+                </div>
+                <div>
+                    <TerminalAnchor
                         href="https://bnr.nl"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -100,93 +120,6 @@ function Projects() {
                             look and listen further. Top-tier journalism with
                             intelligent programmes, high-profile presenters,
                             exciting debates, and playful entertainment.
-                        </p>
-                    </span>
-                </div>
-                <div>
-                    <TerminalAnchor
-                        href="https://github.com/willemliu?tab=repositories"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        title="more projects"
-                    >
-                        > more projects
-                    </TerminalAnchor>
-                    <span>
-                        <p>
-                            Find out about more of my projects on my Github
-                            profile.
-                        </p>
-                    </span>
-                </div>
-            </section>
-
-            <section>
-                <header className={styles.thead}>
-                    <h2>Browser extensions</h2>
-                </header>
-                <div>
-                    <TerminalAnchor
-                        href="https://github.com/FDMediagroep/fd-cypress-recorder"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        title="Fd Cypress Recorder"
-                    >
-                        > Fd Cypress Recorder
-                    </TerminalAnchor>
-                    <span>
-                        <p>
-                            Fd Cypress Recorder captures user interactions and
-                            generates Cypress test code.
-                        </p>
-                        <p>
-                            End-to-end tests can become obsolete fast because of
-                            changing products which makes maintenance of such
-                            tests a time-consuming and high-effort job. This
-                            plugin makes it easier to both create and maintain
-                            said tests. Fd Cypress Recorder allows you to easily
-                            create Cypress end-to-end tests without having to
-                            type any code.
-                        </p>
-                        <p>
-                            Cypress code is automatically generated via the
-                            functions provided by the plugin.
-                        </p>
-                        <p>
-                            Noteworthy: Cypress.io, React, React Beautiful DND
-                        </p>
-                    </span>
-                </div>
-                <div>
-                    <TerminalAnchor
-                        href="https://github.com/willemliu/universal-comments-plugin"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        title="Universal Comments"
-                    >
-                        > Universal Comments
-                    </TerminalAnchor>
-                    <span>
-                        <p>
-                            A comment plugin which adds an overlay to the
-                            website you're visiting.
-                        </p>
-                        <p>
-                            This allows you to submit comments to any website
-                            you visit. Other people using this plugin can read
-                            your comments left on that page. You can create
-                            circles in which you can post comments. You can
-                            invite other people you know to join your circle.
-                            Only you and other members can see the comments
-                            posted there.
-                        </p>
-                        <p>
-                            This makes it possible to make separate circles for
-                            your colleagues, friends and family.
-                        </p>
-                        <p>
-                            Noteworthy: GraphQL, Hasura, Heroku, React, NextJS,
-                            Zeit
                         </p>
                     </span>
                 </div>
